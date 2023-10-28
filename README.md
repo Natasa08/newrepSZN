@@ -7,3 +7,4 @@ UJ-8
 #próba Rita
 barmi
 >>>>>>> 3e3c7a5530b6a154a28ee6f58b043ddbcbc7f0fa
+UJ-7 kapcsolatfelvétel
