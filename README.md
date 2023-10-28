@@ -1,2 +1,3 @@
 # newrepSZN
 barmi
+# reszponzivitás
