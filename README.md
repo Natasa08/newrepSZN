@@ -10,4 +10,4 @@ UJ-7 kapcsolatfelvétel
 =======
 >>>>>>> 862912116ee0c801b516825fc15ad6f9d2ddcc86
 # szöveg: 3 szín, egységes betűtípus, betűméret
-# szín: a fényképeken néhány helyen nehezebben olvasható a szöveg
+# szín: a fényképeken néhány helyen nehezebben olvasható a fehér szöveg
